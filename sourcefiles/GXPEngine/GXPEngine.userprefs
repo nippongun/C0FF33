@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B5126D4C-7FE0-4552-BC8C-E68D529C22B2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bullet.cs">
+    <Files>
+      <File FileName="Bullet.cs" Line="17" Column="21" />
+      <File FileName="Player.cs" Line="1" Column="1" />
+      <File FileName="Cursor.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GXPEngine PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
